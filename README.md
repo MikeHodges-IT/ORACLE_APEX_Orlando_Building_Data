@@ -1,6 +1,6 @@
 # Orlando Building Energy Benchmarking
 
-![Project Logo or Banner](image-link-here)
+![Project Logo or Banner](Images/ScreenshotHome.png)
 
 Welcome to the **Orlando Building Energy Benchmarking** project! This project is part of the Orlando Greenworks initiative and aims to provide insight into the energy usage of Orlando buildings. Built using Oracle APEX, it includes interactive maps, comparison features, and visualizations to help analyze energy data over time.
 
@@ -29,7 +29,6 @@ This app allows users to visualize energy usage data for buildings in Orlando. I
 - **Comparison Tool**: Compare the energy performance of different buildings using graphs and charts.
 **Additional Graphs**: This feature visualizes multiple years of energy data in a variety of formats (upcoming update).
 
-![Map Preview](image-link-here)
 
 ## Technology Stack
 - **Frontend**: HTML, CSS, JavaScript
@@ -42,11 +41,11 @@ To run this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/orlando-building-energy-benchmarking.git
+    git clone https://github.com/MikeHodges-IT/ORACLE_APEX_Orlando_Building_Data.git
     ```
-2. Set up the database using Oracle APEX or a similar database management system.
+2. Inport the database using Oracle APEX 
 
-4. Start the project using Oracle APEX.
+3. Run the project using Oracle APEX.
 
 ## Usage
 Once installed, the site will be accessible through your Oracle APEX instance. Users can interact with the map, compare building energy data, and view graphs and visualizations.
@@ -60,13 +59,19 @@ Once installed, the site will be accessible through your Oracle APEX instance. U
 Here are a few previews of the application:
 
 ### Dashboard
-![Dashboard Screenshot](image-link-here)
-
-### Interactive Map
-![Map Screenshot](image-link-here)
+![Dashboard Screenshot](Images/ScreenshotDashboard.png)
 
 ### Comparison Page
-![Comparison Page Screenshot](image-link-here)
+![Comparison Page Screenshot](Images/ScreenshotCompare.png)
+
+### Data Grid
+![Map Screenshot](Images/Grid.png)
+
+### Chart Page
+![Comparison Page Screenshot](Images/ScreenshotCharts.png)
+
+### More Info Page
+![Comparison Page Screenshot](Images/MoreInfo.png)
 
 ## Future Updates
 In the near future, the following updates are planned:
