@@ -15,6 +15,9 @@ Welcome to the **Orlando Building Energy Benchmarking** project! This project is
 - [Contributing](#contributing)
 - [License](#license)
 
+## Live Site
+Visit the live project site at [Orlando Building Energy Benchmarking Site](https://ge3f5e23966b519-apexuniversity.adb.us-ashburn-1.oraclecloudapps.com/ords/r/apex_university_workspace/orlando-building-energy-benchmarking11811110420002001/home)
+
 ## Project Overview
 This app allows users to visualize energy usage data for buildings in Orlando. Its goal is to make energy data more accessible and understandable, foster awareness of energy consumption, and provide benchmarks for sustainability efforts.
 
