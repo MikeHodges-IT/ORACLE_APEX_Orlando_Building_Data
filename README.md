@@ -5,6 +5,7 @@
 Welcome to the **Orlando Building Energy Benchmarking** project! This project is part of the Orlando Greenworks initiative and aims to provide insight into the energy usage of Orlando buildings. Built using Oracle APEX, it includes interactive maps, comparison features, and visualizations to help analyze energy data over time.
 
 ## Table of Contents
+- [Live Site](#live-site)
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
